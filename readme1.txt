@@ -1,1 +1,2 @@
-cos tam zmieniam
+commit1
+
